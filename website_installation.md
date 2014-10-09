@@ -1,7 +1,20 @@
 This is the original README file provided by default from the plusjade/jekyll-bootstrap repository, ammended with installation notes.
 
-setup using the [quick-start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## setup
 
+using the [quick-start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+## Installed theme
+
+```sh
+rake theme:install git="https://github.com/jekylbootstrap/theme-the-program.git"
+rake theme:switch name="the-program"
+```
+
+
+---
+
+# Original Notes
 
 # Jekyll-Bootstrap
 
