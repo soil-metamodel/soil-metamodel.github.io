@@ -10,10 +10,10 @@ highlighter: pygments
 #
 title : Soil Model of Models
 tagline: Website for Soil Model of Models Working Group 
-#author :
-#  name : David LeBauer
-#  email : dlebauer@gmail.com
-#  github : dlebauer
+author :
+  name : David LeBauer
+  email : dlebauer@gmail.com
+  github : github.com/soil-metamodel/
 
 
 # The production_url is only used when full-domain names are needed

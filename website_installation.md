@@ -4,6 +4,10 @@ This is the original README file provided by default from the plusjade/jekyll-bo
 
 using the [quick-start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
+```sh
+sudo apt-get install nodejs
+```
+
 ## Installed theme
 
 ```sh
