@@ -1,46 +1,27 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Soil Carbon Cycle ‘Super Modeling’
+tagline:  A new approach soil carbon cycle modeling
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+ 
+### Organizers:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+* Kiona Ogle (Arizona State University), 
+* Jennifer Powers (University of Minnesota), 
+* David LeBauer (University of Illinois)
 
-## Update Author Attributes
+### Workshop overview:
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+This workshop follows from discussions during the 2012 RCN FORECAST conference on “New perspectives on data assimilation in global change science.” At that meeting we recognized the need to integrate information from diverse methods that have been used to measure and model belowground processes. We proposed to build a ‘super model’ in which to combine different modeling approaches with heterogeneous data. 
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+### Expected Products and Outcomes: 
 
-    $ rm -rf _posts/core-samples
+We are deliberately recruiting a diverse group with skills in modeling and/or empirical measurements of soil carbon, and we expect that participants could contribute to a number of different products including a conceptual or synthesis paper, model development and application, and/or the eventual submission of a grant proposal to further develop these activities.
 
-Here's a sample "posts list".
+### Funding
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+This workshop is sponsored by FORECAST, an NSF-funded Research Coordination Network (RCN). FORECAST will cover travel, accommodations, and meals for all participants.
 
