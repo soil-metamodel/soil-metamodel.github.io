@@ -8,12 +8,13 @@ group: navigation
 
 ## Ways to Contribute
 
-1. Add Data (See the [Data](https://soil-metamodel.github.com/data.html) page.)
+1. Prepare and Contribute Data (See the [Data](https://soil-metamodel.github.com/data.html) page.)
 2. Lead a new analysis
  * create a new issue in github
  * create a new repository for the analysis
 3. Lead a proposal to follow up on ideas from the workshop
  * create a new issue in github
+4. [Suggest References](https://soil-metamodel.github.com/references.html) page.)
 
 ## Using Github
 

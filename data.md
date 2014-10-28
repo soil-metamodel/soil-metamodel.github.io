@@ -39,3 +39,19 @@ It would be a great idea to archive your data so that it can be accessed program
  * First, use standard variable names above.
  * Then use [DataUp](https://web.dataup.org/) web interface, DataUp will guide you through creating metadata and uploading to OneShare, which is a DataOne membernode
  * Post your dataset on the Data Wiki page
+
+## Available Datasets
+
+For the purposes of the workshop, we have chosen to focus on microcosm and litterbag studies. By excluding the 'input' term for a carbon models, and by having relatively controlled substrate, these should enable development and testing of new approaches.
+
+###  In the [decomposition\_datasets](https://github.com/soil-metamodel/decomposition_datasets) repository.
+
+* LeBauer, D. S. (2010). Litter degradation rate and β-glucosidase activity increase with fungal diversity. Canadian journal of forest research, 40(6), 1076-1085. 
+([pdf](https://github.com/soil-metamodel/decomposition_datasets/blob/master/lebauer_2010_micrcosm/lebauer2010ldr.pdf?raw=true))
+
+* Powers, J. S., et al. (2009). Decomposition in tropical forests: a pan‐tropical study of the effects of litter type, litter placement and mesofaunal exclusion across a precipitation gradient. Journal of Ecology, 97(4), 801-811. ([pdf](https://github.com/soil-metamodel/decomposition_datasets/blob/master/powers_2009_litterbags/powers2009%20J%20Ecology.pdf?raw=true))
+
+###  Publicly available, not yet placed in GitHub
+
+* LIDET
+* ... list yours here
