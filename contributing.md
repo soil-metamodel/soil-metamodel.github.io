@@ -6,6 +6,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+[edit this page](https://github.com/soil-metamodel/soil-metamodel.github.com/edit/master/contributing.md)
+
 ## Ways to Contribute
 
 1. Prepare and Contribute Data (See the [Data](https://soil-metamodel.github.com/data.html) page.)
