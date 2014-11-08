@@ -6,10 +6,18 @@ group: navigation
 ---
 {% include JB/setup %}
 
+[edit this page](https://github.com/soil-metamodel/soil-metamodel.github.com/edit/master/data.md)
 
-### Where to put data
 
-Add a new folder to the [decomposition\_datasets](https://github.com/soil-metamodel/decomposition_datasets) repository. Add a README file with dataset description, meta-data (variable names and units), and citation if applicable.
+### Datasets
+
+In defining the scope of the workshop, we have chosen to focus on microcosm and litterbag studies. By excluding the 'input' term for a carbon models, and by having less diverse substrate (in the case of litter), these should enable development and testing of new approaches. This will place emphasis on decomposition rather than plant productivity. 
+
+* Microcosm data in the SoilR package (`data(eCO2)`)
+* Microcosm data from a experimenatal test of litter type x species number effects on decomposition rate (LeBauer 2010)
+* Litter data from LIDET - an outstanding cross-site evaluation of litter decomposition that has been widely used in modeling
+* Litter data from a Tropical cross site study (Powers et al 2009).
+* Litter data from Charlotte Riggs (unpublished)
 
 ### Variable names and units
 
@@ -24,6 +32,7 @@ The most important reason to standardize names and units is to make it easier to
 | `temperature` | C | |
 | `moisture` | g/g | mass fraction of water |
 | `c` | g | total mass of carbon |
+| `eCO2` | | cumulative evolved CO2 (for microcosm studies)|
 | `dc_dt` | g/d | rate of change of total carbon pool |
 | `c_<fraction>` | g | total mass of a fraction (e.g. 'light', 'cellulose', etc)|
 | `n` | g | total mass of nitrogen |
@@ -32,26 +41,16 @@ The most important reason to standardize names and units is to make it easier to
 
 These are just a start, please suggest updates and changes in [a new issue in github](https://github.com/soil-metamodel/soil-metamodel.github.com/issues/new).
 
-### Archiving Data: 
+### Where to put data
 
-It would be a great idea to archive your data so that it can be accessed programatically - within and beyond the scope of the workshop.
+Add a new folder to the [decomposition\_datasets](https://github.com/soil-metamodel/decomposition_datasets) repository. Add a README file with a license, dataset description, meta-data (variable names and units), and citation if applicable. Ideally, an exploratory / demonstration with the dataset.
+
+A CC-BY license allows reuse with attribution. See [Creative Commons Licenses](http://creativecommons.org/licenses/) for more details about this and other alternative licenses for open data.
+
+#### Archiving Data: 
+
+**Extra Credit:** Archive your data so that it can be accessed programatically - within and beyond the scope of the workshop.
 
  * First, use standard variable names above.
- * Then use [DataUp](https://web.dataup.org/) web interface, DataUp will guide you through creating metadata and uploading to OneShare, which is a DataOne membernode
- * Post your dataset on the Data Wiki page
-
-## Available Datasets
-
-For the purposes of the workshop, we have chosen to focus on microcosm and litterbag studies. By excluding the 'input' term for a carbon models, and by having relatively controlled substrate, these should enable development and testing of new approaches.
-
-###  In the [decomposition\_datasets](https://github.com/soil-metamodel/decomposition_datasets) repository.
-
-* LeBauer, D. S. (2010). Litter degradation rate and β-glucosidase activity increase with fungal diversity. Canadian journal of forest research, 40(6), 1076-1085. 
-([pdf](https://github.com/soil-metamodel/decomposition_datasets/blob/master/lebauer_2010_micrcosm/lebauer2010ldr.pdf?raw=true))
-
-* Powers, J. S., et al. (2009). Decomposition in tropical forests: a pan‐tropical study of the effects of litter type, litter placement and mesofaunal exclusion across a precipitation gradient. Journal of Ecology, 97(4), 801-811. ([pdf](https://github.com/soil-metamodel/decomposition_datasets/blob/master/powers_2009_litterbags/powers2009%20J%20Ecology.pdf?raw=true))
-
-###  Publicly available, not yet placed in GitHub
-
-* LIDET
-* ... list yours here
+ * Then use Dash to upload your data, either to the [DataOne Dash](https://oneshare.cdlib.org/xtf/search) instance or for UC affiliates to one of the [UC campus Dash sites](http://www.cdlib.org/cdlinfo/2014/11/03/announcing-the-dash-tool-data-sharing-made-easy/). The web interface guides you through creating metadata and uploading to OneShare, which is a DataOne membernode
+ * Create a folder in the decomposition\_datasets repository with information about the dataset as above
