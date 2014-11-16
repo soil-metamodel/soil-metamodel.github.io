@@ -5,6 +5,7 @@ tagline:  A new approach soil carbon cycle modeling
 ---
 {% include JB/setup %}
 
+[Github repositories: github.com/soil-metamodel/](https://github.com/soil-metamodel/)
  
 ### Organizers:
 
