@@ -2,7 +2,6 @@
 layout: page
 title: "Projects"
 description: "Project Overviews"
-group: navigation
 ---
 {% include JB/setup %}
 
