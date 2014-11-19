@@ -30,3 +30,9 @@ LeBauer, D. S. (2010). Litter degradation rate and β-glucosidase activity incre
 
 Powers, J. S., et al. (2009). Decomposition in tropical forests: a pan‐tropical study of the effects of litter type, litter placement and mesofaunal exclusion across a precipitation gradient. Journal of Ecology, 97(4), 801-811. ([pdf](https://github.com/soil-metamodel/decomposition_datasets/blob/master/powers_2009_litterbags/powers2009%20J%20Ecology.pdf?raw=true))
 
+
+## Github
+
+Ram 2014 Git can facilitate greater reproducibility and increased transparency in science. Source Code for Biology and Medicine http://www.scfbm.org/content/8/1/7
+
+https://help.github.com
