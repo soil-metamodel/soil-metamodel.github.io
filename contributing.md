@@ -18,7 +18,9 @@ group: navigation
  * This is also a good place for project-specific questions / discussions
  * a nice way to view issues is here: https://huboard.com/soil-metamodel/back-forth-mm/
 
+### Licensing
 
+To create a license for your writing / data, see http://creativecommons.org/choose/. It will create both text and html code that can be embedded into a README file or other markdown document to specify if and how others may use/reuse the content created by you (e.g. unpublished data) or the group (e.g. code, writing). It is also possible to create private repositories / groups in GitHub (see below).
 
 ## Using Github
 
