@@ -20,7 +20,7 @@ This workshop follows from discussions during the 2012 RCN FORECAST conference o
 
 ### Expected Products and Outcomes: 
 
-We are deliberately recruiting a diverse group with skills in modeling and/or empirical measurements of soil carbon, and we expect that participants could contribute to a number of different products including a conceptual or synthesis paper, model development and application, and/or the eventual submission of a grant proposal to further develop these activities.
+We deliberately recruited a diverse but small group with skills in modeling and/or empirical measurements of soil carbon, and a bias toward early career scientists and we expect that participants will contribute to a number of different products including a conceptual or synthesis paper, model development and application, and the eventual submission of a grant proposal to further develop these activities.
 
 Coverage in popular media:
 * Bob's report for Andrew Gelman's blog [Super Soil Scientists Seek Super Model](http://andrewgelman.com/2014/11/20/super-soil-scientists-seeking-super-model/)
