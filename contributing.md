@@ -29,18 +29,13 @@ To create a license for your writing / data, see http://creativecommons.org/choo
 3. fork and clone the repository
 4. ask questions, suggest changes, manuscripts, proposals as a new [github 'issue'](https://github.com/soil-metamodel/soil-metamodel.github.com/issues/new).
 
-### Within Github
+### Making changes
 
-It is pretty easy to make edits directly (e.g. try attempting to edit one of the files here (e.g. [Introduction.md]( https://github.com/dlebauer/ecological-forecasting-workflows-draft/edit/master/Introduction.md#fullscreen_blob_contents) after you have an account). It should walk you through the steps of suggesting an edit via pull request.
-
-See the [GitHub documentation](https://help.github.com/articles/editing-files-in-another-user-s-repository)
-
-### Desktop
-
-Use your favorite IDE! or click "Clone in Desktop" button on the right side of this page.
-
-e.g. [this link for Windows](github-windows://openRepo/https://github.com/dlebauer/soil_metamodel) that uses [Github for Windows](https://windows.github.com/)
-
+* It is easy to edits directly in the browser. See the [GitHub documentation](https://help.github.com/articles/editing-files-in-another-user-s-repository)
+* Try [Github for Windows](https://windows.github.com/), [Github for Mac](https://mac.github.com/), or [other GUIs](http://git-scm.com/downloads/guis)
+* For more advanced use:
+ * [Software Carpentry lessons](http://software-carpentry.org/v5/novice/git/index.html)
+ * [GitHub's list of resources](http://soil-metamodel.github.io/contributing.html)
 
 ### Formatting Equations (Latex + GitHub ?@&*!)
 
